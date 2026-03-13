@@ -1,7 +1,17 @@
-# Pizza-Sales-Report
+# Pizza Sales Report
 This project analyzes a year of sales data from a fictional pizza store using Microsoft Excel. The dataset includes variables such as pizza type, size, quantity sold, price, and ingredients. The analysis focuses on identifying sales trends, top performing products, and key business insights that can support better decision-making and operational optimization.
 
-## Table of content 
+## Table of content
+- [Project overview](#Project-overview)
+- [Project Scope](#Project-Scope)
+- [Project objective](#Project-objective) 
+- [Expected outcome](#Expected-outcome) 
+- [Data sources](#Data-sources) 
+- [Data cleaning and processing](#Data-cleaning-and-processing)
+- [Data Model](#Data-Model) 
+- [Data analysis and insight](#Data-analysis-and-insight) 
+- [Recommendation](#Recommendation) 
+- [Conclusion](#Conclusion)
 
 ## Project overview 
 This project analyzes a year's worth of sales data from a fictional pizza company to uncover key business insights. The dataset includes information on orders, pizza types, sizes, prices, and ingredients.
@@ -140,16 +150,21 @@ To achieve this, **monthly and quarterly sales trends** were analyzed using pivo
 These visualizations provide a clear overview of sales performance throughout the year, helping to highlight trends, fluctuations, and any unusual patterns that may require further attention.
 
 **Total Revenue** 
-**(image of Dax and Revenue)** 
 
-**Seasonality in Sales**
-**(Image of Montly data)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Total%20revenue.png)
+
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Total%20Revenue1.png)
+
+### Seasonality in Sales
+
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Monthly%20sales%20trend.png)
 
 From the analysis above;
 - July has the highest revenue at $72,558, followed by May, March, and November at $71,403, $70,397 and $70,395, respectively.
 - October, September, and December have the least revenue at $64,026, $61,180, and $64,701, respectively.
 
-**(image of quarterly sales)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Quarterly%20sales%20trend%20.png)
+
 From the analysis above;
 - The second quarter has the highest revenue, followed by the first quarter at $208,370 and $205,350, respectively, with the fourth quarter having the least revenue at $199,124.
 
@@ -159,11 +174,13 @@ This analysis aims to evaluate the popularity and revenue contribution of differ
 To conduct this analysis, sales data was examined to determine which pizzas were purchased most frequently and which were ordered the least.
 To highlight the most significant findings, filters were applied to display the **top five best-selling pizzas** and the **bottom five least-performing pizzas** based on total quantity sold. This visualization provides a clear comparison of product demand, helping to identify key revenue drivers and potential areas for menu improvement.
 
-**(Image of top 5 revenue generating pizza)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Top%205%20revenue%20generating%20pizza%20.png)
+
 - The **Thai Chicken Pizza generates the highest revenue**, totaling **$43,434**, making it the top revenue-contributing pizza. Its strong performance suggests that it is a customer favorite and serves as a major driver of overall sales for the business.
 - Other pizzas such as **Barbecue Chicken Pizza, California Chicken Pizza, Classic Deluxe Pizza, and Spicy Italian Pizza** also contribute significantly to revenue. Although they do not generate as much revenue as the top performer, their strong sales indicate steady demand and consistent popularity among customers, making them important contributors to the overall performance of the menu.
 
-**(image of least performing Pizza)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Least%20performing%20Pizza.png)
+
 - With total revenue of **$11,588**, the** Brie Carre Pizza** emerges as the least performing pizza in terms of sales. Its low revenue contribution suggests that it experiences significantly lower customer demand compared to other menu items.
 - Other pizzas such as **Green Garden Pizza, Spinach Supreme Pizza, Mediterranean Pizza, and Spinach Pesto Pizza** also record relatively lower revenue figures. This indicates weaker demand for these items compared to the more popular pizzas on the menu.
 
@@ -172,7 +189,8 @@ The objective of this analysis is to identify the specific times of the day when
 
 To conduct this analysis, a **pivot table** was created where the **time column** was placed in the rows section and grouped by hour, while **order_id** was placed in the values section to count the total number of orders. The results were then visualized using a **column chart**, which clearly illustrates the distribution of customer orders across different hours of the day and highlights the peak ordering periods.
 
-**(image of customer order by hour)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Customer%20order%20by%20hour%20.png)
+
 Peak Hours Analysis:
 - 12 PM: Customer traffic peaks at 12 PM with 2,520 orders, making lunchtime the busiest period of the day.
 - 1 PM: Close behind, 1 PM records 2,455 customers, confirming the lunchtime rush.
@@ -185,8 +203,11 @@ Overall, **Pizza Sales Place experiences its busiest periods during lunch (12 PM
 The primary objective of this analysis is to determine the daily number of customer orders at Pizza Sales Place by using **order_id** as a representation of individual customer transactions. This helps provide insight into daily customer activity, allowing the business to identify high-demand days, slower periods, and better understand overall customer flow.
 
 To perform this analysis, a pivot table was created where the day column was placed in the rows section, while order_id was placed in the values section to count the total number of orders per day. The results were then visualized using a **Column chart**, providing a clear view of how customer orders are distributed across different days.
-**(Image of customer order per day)**
+
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Number%20of%20customers%20per%20day.png)
+
 **Insight**
+
 The analysis of daily customer orders shows clear variations in demand throughout the week. **Friday records the highest number of customer orders (3,583), followed by Thursday (3,283) and Saturday (3,159)**. These days likely experience higher demand because they fall toward the end of the workweek and the beginning of the weekend, when people are more inclined to socialize, relax, or treat themselves to dining out or ordering food. Friday, in particular, is commonly associated with social gatherings and end-of-week celebrations, which may explain the peak in orders.
 
 Midweek days such as **Wednesday (3,024) and Tuesday (2,973)** show moderate customer activity, indicating steady demand as customers may order pizza for convenience during busy workdays.
@@ -202,7 +223,10 @@ By identifying the categories that contribute the most to total revenue, the bus
 
 To perform this analysis, the **percentage contribution of each pizza category to total revenue** was calculated. The results were then visualized using a **doughnut chart**, providing a clear and easy-to-understand view of how each category contributes to the overall revenue.
 
-**(Images of all the donut chart)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Classic.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Chicken.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Supreme.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/veggie.png)
 **Insight**
 
 From the analysis, it is evident that all pizza categories contributed significantly to the total revenue generated during the year. Among them, the **Classic category recorded the highest contribution at 27%**, indicating that it is the most popular and revenue-generating category for the business. This suggests that pizzas within the Classic category are widely preferred by customers and play a key role in driving overall sales.
@@ -211,7 +235,9 @@ The other categories also made meaningful contributions to total revenue, showin
 
 ### 6. How do different pizza sizes contribute to total sales volume?
 This analysis examines the distribution of pizzas sold based on their sizes. Understanding which pizza sizes customers purchase most frequently helps reveal customer preferences and supports better decision-making in areas such as inventory planning, menu design, and promotional strategies.
-**(image of size)**
+
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Pizza%20size%20by%20quantity%20ordered%20.png)
+
 **Insight**
 
 From the analysis, **Large pizzas recorded the highest quantity sold (18,956)**, indicating that customers tend to prefer larger sizes, possibly because they offer better value for group sharing or family meals. **Medium (15,635) and Small (14,403)** pizzas also show strong demand, suggesting that customers purchase these sizes regularly for individual or smaller group consumption.
@@ -219,7 +245,7 @@ From the analysis, **Large pizzas recorded the highest quantity sold (18,956)**,
 In contrast, **XL (552) and XXL (28)** pizzas have significantly lower sales, indicating that these sizes are rarely ordered. This may suggest limited demand for extremely large sizes or that customers prefer more standard size options when placing their orders.
 
 ## Data Visualization 
-**(Image of dashboard)**
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Dashboard.png)
 
 ## Recommendation 
 - **Promote Large pizzas**: Since Large pizzas have the highest sales volume, the business can introduce promotions or combo deals centered around Large sizes to further increase revenue.
