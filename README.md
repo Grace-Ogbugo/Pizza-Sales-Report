@@ -222,11 +222,11 @@ In contrast, **XL (552) and XXL (28)** pizzas have significantly lower sales, in
 **(Image of dashboard)**
 
 ## Recommendation 
-- Promote Large pizzas: Since Large pizzas have the highest sales volume, the business can introduce promotions or combo deals centered around Large sizes to further increase revenue.
-- Bundle Medium and Small pizzas: Medium and Small pizzas also show strong demand, making them suitable for bundle offers such as “Buy 2 Mediums” or “Family Combo Deals” to encourage larger purchases.
-- Review XL and XXL pizza offerings: The significantly low sales of XL and XXL pizzas suggest limited customer demand. The business may consider promoting these sizes through special deals or reevaluating whether they should remain on the menu.
-- Align inventory with demand: Since Large, Medium, and Small pizzas account for the majority of sales, the business should prioritize stocking ingredients and packaging materials that support these sizes to avoid shortages during peak demand.
-- Target group dining promotions: The high demand for Large pizzas indicates that customers may be ordering for groups or family meals. The business could leverage this by introducing group meal deals or family-sized promotions.
+- **Promote Large pizzas**: Since Large pizzas have the highest sales volume, the business can introduce promotions or combo deals centered around Large sizes to further increase revenue.
+- **Bundle Medium and Small pizzas**: Medium and Small pizzas also show strong demand, making them suitable for bundle offers such as “Buy 2 Mediums” or “Family Combo Deals” to encourage larger purchases.
+- **Review XL and XXL pizza offerings**: The significantly low sales of XL and XXL pizzas suggest limited customer demand. The business may consider promoting these sizes through special deals or reevaluating whether they should remain on the menu.
+- **Align inventory with demand**: Since Large, Medium, and Small pizzas account for the majority of sales, the business should prioritize stocking ingredients and packaging materials that support these sizes to avoid shortages during peak demand.
+- **Target group dining promotions**: The high demand for Large pizzas indicates that customers may be ordering for groups or family meals. The business could leverage this by introducing group meal deals or family-sized promotions.
 
 ## Conclusion 
 This analysis provided insights into the sales performance, customer ordering patterns, and product contribution at Pizza Sales Place over the year. The findings highlight key revenue-generating pizzas, peak demand periods, and customer preferences for certain pizza sizes and categories.
