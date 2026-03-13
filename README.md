@@ -151,7 +151,7 @@ These visualizations provide a clear overview of sales performance throughout th
 
 **Total Revenue** 
 
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Total%20revenue.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/3206bfae1d78a947fca26303e1c84518fce5581e/Total%20revenue.png)
 
 ![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Total%20Revenue1.png)
 
