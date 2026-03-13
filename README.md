@@ -157,13 +157,13 @@ These visualizations provide a clear overview of sales performance throughout th
 
 ### Seasonality in Sales
 
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Monthly%20sales%20trend.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/6decc2d2abd7e3f1edf1259497358fcdd7e7c681/Monthly%20sales%20trend.png)
 
 From the analysis above;
 - July has the highest revenue at $72,558, followed by May, March, and November at $71,403, $70,397 and $70,395, respectively.
 - October, September, and December have the least revenue at $64,026, $61,180, and $64,701, respectively.
 
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Quarterly%20sales%20trend%20.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/6decc2d2abd7e3f1edf1259497358fcdd7e7c681/Quarterly%20sales%20trend%20.png)
 
 From the analysis above;
 - The second quarter has the highest revenue, followed by the first quarter at $208,370 and $205,350, respectively, with the fourth quarter having the least revenue at $199,124.
@@ -174,12 +174,12 @@ This analysis aims to evaluate the popularity and revenue contribution of differ
 To conduct this analysis, sales data was examined to determine which pizzas were purchased most frequently and which were ordered the least.
 To highlight the most significant findings, filters were applied to display the **top five best-selling pizzas** and the **bottom five least-performing pizzas** based on total quantity sold. This visualization provides a clear comparison of product demand, helping to identify key revenue drivers and potential areas for menu improvement.
 
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Top%205%20revenue%20generating%20pizza%20.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/6decc2d2abd7e3f1edf1259497358fcdd7e7c681/Top%205%20revenue%20generating%20pizza%20.png)
 
 - The **Thai Chicken Pizza generates the highest revenue**, totaling **$43,434**, making it the top revenue-contributing pizza. Its strong performance suggests that it is a customer favorite and serves as a major driver of overall sales for the business.
 - Other pizzas such as **Barbecue Chicken Pizza, California Chicken Pizza, Classic Deluxe Pizza, and Spicy Italian Pizza** also contribute significantly to revenue. Although they do not generate as much revenue as the top performer, their strong sales indicate steady demand and consistent popularity among customers, making them important contributors to the overall performance of the menu.
 
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Least%20performing%20Pizza.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/6decc2d2abd7e3f1edf1259497358fcdd7e7c681/Least%20performing%20Pizza.png)
 
 - With total revenue of **$11,588**, the** Brie Carre Pizza** emerges as the least performing pizza in terms of sales. Its low revenue contribution suggests that it experiences significantly lower customer demand compared to other menu items.
 - Other pizzas such as **Green Garden Pizza, Spinach Supreme Pizza, Mediterranean Pizza, and Spinach Pesto Pizza** also record relatively lower revenue figures. This indicates weaker demand for these items compared to the more popular pizzas on the menu.
@@ -226,7 +226,7 @@ To perform this analysis, the **percentage contribution of each pizza category t
 ![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Classic.png)
 ![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Chicken.png)
 ![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/Supreme.png)
-![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/313b140c91f042576b662ad49b5ca20a272b8468/veggie.png)
+![Alt text](https://github.com/Grace-Ogbugo/Pizza-Sales-Report/blob/6decc2d2abd7e3f1edf1259497358fcdd7e7c681/veggie.png)
 **Insight**
 
 From the analysis, it is evident that all pizza categories contributed significantly to the total revenue generated during the year. Among them, the **Classic category recorded the highest contribution at 27%**, indicating that it is the most popular and revenue-generating category for the business. This suggests that pizzas within the Classic category are widely preferred by customers and play a key role in driving overall sales.
